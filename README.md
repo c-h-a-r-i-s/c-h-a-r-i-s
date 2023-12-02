@@ -1,6 +1,6 @@
-<h2>Hi, I'm Charis!<br/>
+<h1>Hi, I'm Charis!<br/>
     <i>Computer Scientist, Software Engineer, Researcher</i>
-</h2>
+</h1>
 
 
 <h2>👨‍💻 Fun Projects:</h2>
