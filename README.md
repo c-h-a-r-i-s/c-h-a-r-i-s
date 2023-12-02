@@ -1,8 +1,10 @@
-<h1>Hi, I'm Charis! <br/>Computer Scientist, Software Engineer, Researcher</h1>
+<h2>Hi, I'm Charis!<br/>
+    <i>Computer Scientist, Software Engineer, Researcher</i>
+</h2>
 
 
 <h2>👨‍💻 Fun Projects:</h2>
 
-<img align="left" alt="Charis Charitsis | E-mail" width="22px" src="https://github.com/c-h-a-r-i-s/c-h-a-r-i-s/blob/main/email.svg"/>charis@stanford.edu
+<img align="left" alt="Charis Charitsis | E-mail" width="35px" src="https://github.com/c-h-a-r-i-s/c-h-a-r-i-s/blob/main/email.png"/><h4>charis@stanford.edu</h4>
 
-<p><i>Stay hungry [for knowledge], stay foolish [never consider myself an expert but a fool in order to learn more]</i></p>
+<h4>Stay hungry <i>[for knowledge]</i>, stay foolish <i>[not an expert but a fool to learn more]</i></h4>
