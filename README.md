@@ -6,9 +6,9 @@
 <p>Over the years, I have derived immense joy from engaging in various captivating projects. Inspired by the enjoyment these endeavors brought me, I've recently chosen to showcase a select few in this personal space of mine.</p>
 
 <h2>
-    <img align="left" alt="Fun" width="45px" src="https://github.com/c-h-a-r-i-s/c-h-a-r-i-s/blob/main/images/fun_projects.gif"/>&nbsp;Fun Projects:
+    <img align="left" alt="Fun" width="45px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/fun_projects.gif"/>&nbsp;Fun Projects:
 </h2>
 
-<img align="left" alt="Charis Charitsis | E-mail" width="35px" src="https://github.com/c-h-a-r-i-s/c-h-a-r-i-s/blob/main/images/email.png"/><h4>charis@stanford.edu</h4>
+<img align="left" alt="Charis Charitsis | E-mail" width="35px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/email.png"/><h4>charis@stanford.edu</h4>
 
 <h4><i>Stay hungry [for knowledge], stay foolish</i></h4>
