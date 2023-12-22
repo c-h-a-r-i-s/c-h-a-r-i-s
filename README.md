@@ -1,5 +1,5 @@
 <h1>Hi, I'm Charis!<br/>
-    <i>Computer Scientist, Software Engineer, <a href="https://github.com/c-h-a-r-i-s/Education">Researcher</a></i>
+    <i><a href="https://github.com/c-h-a-r-i-s/Education">Computer Scientist</a>, <a href="https://www.linkedin.com/in/charis-charitsis">Software Engineer</a></i>
 </h1>
 
 <p>From my childhood, when I first laid hands on my initial PC, to the present day, my affection for computers, computer science, and software development has been unwavering. I consider myself fortunate to have seamlessly transformed what some might call a "profession" into a genuine hobby.</p><p>While my interests have shifted over the years, my passion has not only endured but has grown. The beauty of Computer Science lies in its self-renewing nature. Interestingly, the apparent impossibility of fully keeping up with the continuous influx of new knowledge serves as my primary motivation. Embracing the perpetual learning curve is not merely a professional necessity; it's a source of personal gratification, rendering each endeavor an exhilarating stride forward in an infinite and enthralling journey.</p>
