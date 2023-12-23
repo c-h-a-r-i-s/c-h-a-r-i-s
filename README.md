@@ -10,8 +10,8 @@
 </h2>
 
 <h3>
-    <img align="left" alt="Fun" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/delve_thumbnail.png"/>&nbsp;Delve<br>
-    <h4><i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
+    <img align="left" alt="Fun" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/delve.gif"/>&nbsp;Delve<br>
+    <h4>&nbsp;<i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
 </h3><br>
 
 
