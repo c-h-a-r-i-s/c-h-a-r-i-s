@@ -13,15 +13,15 @@
     <a href="https://github.com/c-h-a-r-i-s/Delve">
         <img align="left" alt="Delve thumbnail" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/delve.gif"/>
     </a>&nbsp;
-    <a href="https://github.com/c-h-a-r-i-s/Delve">Delve</a><br>
+    <a href="https://github.com/c-h-a-r-i-s/Delve">Delve</a>
     <h4>&nbsp;&nbsp;<i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
 </h3>
-
+<br>
 <h3>
     <a href="https://github.com/c-h-a-r-i-s/ImageToText">
         <img align="left" alt="Image-to-Text thumbnail" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/image-to-text.gif"/>
     </a>&nbsp;
-    <a href="https://github.com/c-h-a-r-i-s/ImageToText">Image-to-Text</a><br>
+    <a href="https://github.com/c-h-a-r-i-s/ImageToText">Image-to-Text</a>
     <h4>&nbsp;&nbsp;<i>Java GUI application designed to extract the text from images (OCR).</i></h4>
 </h3>
 
