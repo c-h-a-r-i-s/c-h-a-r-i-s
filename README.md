@@ -10,11 +10,15 @@
 </h2>
 
 <h3>
-    <img align="left" alt="Fun" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/delve.gif"/>&nbsp;Delve<br>
+    <a href="https://github.com/c-h-a-r-i-s/Delve">
+        <img align="left" alt="Fun" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/delve.gif"/>
+    </a>&nbsp;
+    <a href="https://github.com/c-h-a-r-i-s/Delve">Delve</a><br>
     <h4>&nbsp;<i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
-</h3><br>
+</h3>
 
 
+<br>
 <h4>
     <img align="center" alt="Charis Charitsis | E-mail" width="35px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/email.png"/>
     charis@stanford.edu
