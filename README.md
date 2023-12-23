@@ -11,7 +11,7 @@
 
 <h3>
     <a href="https://github.com/c-h-a-r-i-s/Delve">
-        <img align="left" alt="Fun" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/delve.gif"/>
+        <img align="left" alt="Delve thumbnail" width="100px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/delve.gif"/>
     </a>&nbsp;
     <a href="https://github.com/c-h-a-r-i-s/Delve">Delve</a><br>
     <h4>&nbsp;<i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
@@ -20,8 +20,10 @@
 
 <br>
 <h4>
-    <img align="center" alt="Charis Charitsis | E-mail" width="35px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/email.png"/>
-    charis@stanford.edu
+    <a href="mailto:charis@stanford.edu">
+        <img align="center" alt="Charis Charitsis | E-mail" width="35px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/email.png"/>
+    </a>
+    <a href="mailto:charis@stanford.edu">charis@stanford.edu</a>
 </h4>
 
 <h4><i>Stay hungry, stay foolish</i></h4>
