@@ -27,7 +27,7 @@
 <br>
 <h3>
     <a href="https://github.com/c-h-a-r-i-s/CodeBuddy">
-        <img align="left" alt="CodeBuddy thumbnail" width="110px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/codebuddy.gif"/>
+        <img align="left" alt="CodeBuddy thumbnail" width="120px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/codebuddy.gif"/>
     </a>&nbsp;
     <a href="https://github.com/c-h-a-r-i-s/CodeBuddy">CodeBuddy</a>
     <h4>&nbsp;&nbsp;<i>Next.js web application that provides a collection of programming challenges</i></h4>
